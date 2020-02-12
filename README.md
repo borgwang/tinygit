@@ -1,7 +1,17 @@
 ### tinygit
 
-#### TODO
+A fork from [pygit](https://github.com/benhoyt/pygit) which implements basic operations of git in pure Python3.
 
-- check if there are added files to commit
-- `git rm`
-- `git checkout`
+
+#### Includes
+
+- init
+- add
+- commit 
+- push (to a git server like GitHub)
+- status
+- diff
+- cat-file
+
+
+
