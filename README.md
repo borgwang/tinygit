@@ -1,9 +1,9 @@
 ### tinygit
 
-A fork from [pygit](https://github.com/benhoyt/pygit) which implements basic operations of git in pure Python3.
+A fork from [pygit](https://github.com/benhoyt/pygit) which implements basic operations of git in pure Python3. 
 
 
-#### Includes
+#### Included
 
 - init
 - add
